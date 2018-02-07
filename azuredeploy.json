@@ -10,7 +10,7 @@
     },
     "functionKey": {
       "type": "string",
-      "defaultValue": "j0txf1f8msjytzvpe40nxbpxdcxtqcgxy0nt",
+      "defaultValue": "",
       "metadata": {
         "description": "Function App Key to use for authorization of Webhook. You should replace this with the key you want to use for your Function application authorization"
       }
@@ -45,42 +45,42 @@
     },
     "mediaServicesAccountAzureActiveDirectoryTenantDomain": {
       "type": "string",
-      "defaultValue": "mtsinai.onmicrosoft.com",
+      "defaultValue": "xxx.onmicrosoft.com",
       "metadata": {
         "description": "Azure Active Directory tenant domain of your media services account."
       }
     },
     "mediaServicesAccountRestApiEndpoint": {
       "type": "string",
-      "defaultValue": "https://demondemo.restv2.eastus.media.azure.net/api/",
+      "defaultValue": "xxx",
       "metadata": {
         "description": "REST API endpoint of your media services account."
       }
     },
     "mediaServicesAccountServicePrincipalClientId": {
       "type": "string",
-      "defaultValue": "17c1a96e-6f9a-4425-ae25-d3e08e4593de",
+      "defaultValue": "xxx",
       "metadata": {
         "description": "Service Principal Client ID to access your media services account. See https://docs.microsoft.com/en-us/azure/media-services/media-services-portal-get-started-with-aad#service-principal-authentication"
       }
     },
     "mediaServicesAccountServicePrincipalClientSecret": {
       "type": "string",
-      "defaultValue": "P32YxccN5/MV47ba4kaUEEv44o7LbLKP+TMP8dGUQkk=",
+      "defaultValue": "xxx",
       "metadata": {
         "description": "Service Principal Client Secret to access your media services account. See https://docs.microsoft.com/en-us/azure/media-services/media-services-portal-get-started-with-aad#service-principal-authentication"
       }
     },
     "mediaServicesStorageAccountName": {
       "type": "string",
-      "defaultValue": "testmediademo",
+      "defaultValue": "xxx",
       "metadata": {
         "description": "Storage Accouunt Name of the Media Services account"
       }
     },
     "mediaServicesStorageAccountKey": {
       "type": "string",
-      "defaultValue": "Htm0WNyIgN3NAizXX+ltnWXkNuHrBj9ATDIeaVdAC/qQQXRwlZrHCL8dhCdoTpUaTNRCtlEGvVKV+ht6upuOMg==",
+      "defaultValue": "xxx",
       "metadata": {
         "description": "Storage Accouunt Key of the Media Services account"
       }
